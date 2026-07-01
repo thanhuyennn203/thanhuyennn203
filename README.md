@@ -1,4 +1,4 @@
-# Hello, I am Than Huyen
+# Hello, I am Huyen
 
 I'm a final-year Software Engineering student at Eastern International University. 
 
